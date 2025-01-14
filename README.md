@@ -29,5 +29,5 @@ A modern web application for managing student information, built using React, Ax
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-management-system.git
+   git clone https://github.com/your-username/student-management-system.git](https://github.com/SabeerRahman/student-management-system.git
    cd student-management-system
