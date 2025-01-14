@@ -4,7 +4,6 @@ A modern web application for managing student information, built using React, Ax
 
 ## Features
 
-- **Dashboard**: Overview of student statistics.
 - **Student List**: View, search, and filter a list of students.
 - **Add/Edit Student**: Create or update student information.
 - **Student Details**: View detailed information about a student.
